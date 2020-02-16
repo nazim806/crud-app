@@ -5,6 +5,6 @@ This is a simple CRUD (create, read, update, delete) app that utilizes State and
 
 In this app you'll be able to add, update, or delete users.
 
-Technology used:
+**Technology used:**
 
-HTML, CSS, and JavaScript/ES6
+HTML, CSS, JavaScript/ES6, Reactjs
